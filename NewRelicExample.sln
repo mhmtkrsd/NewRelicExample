@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewRelicExample.Api", "NewRelicExample.Api\NewRelicExample.Api.csproj", "{193E35B4-4DE7-4369-9240-E07D0BE2C2D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewRelicExample.Repository", "NewRelicExample.Repository\NewRelicExample.Repository.csproj", "{1061AAF3-F6C6-45C4-9A84-5B5876A43763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{193E35B4-4DE7-4369-9240-E07D0BE2C2D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193E35B4-4DE7-4369-9240-E07D0BE2C2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193E35B4-4DE7-4369-9240-E07D0BE2C2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193E35B4-4DE7-4369-9240-E07D0BE2C2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1061AAF3-F6C6-45C4-9A84-5B5876A43763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1061AAF3-F6C6-45C4-9A84-5B5876A43763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1061AAF3-F6C6-45C4-9A84-5B5876A43763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1061AAF3-F6C6-45C4-9A84-5B5876A43763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
